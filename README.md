@@ -29,14 +29,12 @@ Documented walkthroughs and analysis from TryHackMe security exercises, focusing
 *(Coming Soon)* - Custom security lab environments built for practicing detection engineering, SIEM configuration, and incident response scenarios.
 
 ### 📁 Security Tool Practice
-*(Coming Soon)* - Hands-on exercises with industry-standard security tools including Splunk, Wireshark, Nmap, and endpoint detection platforms.
-
-### 📁 Network Analysis Practice
-Wireshark or other network analysis labs and exercises.
-
+Hands-on exercises with industry-standard security tools including Splunk, Wireshark, Nmap, and endpoint detection platforms.
 | Lab Name | Focus Area | Skills Demonstrated | Status |
 |----------|------------|---------------------|--------|
 | [Dr. K Wireshark PCAP Investigation](./Network%20Analysis/Dr-K-Wireshark-pcap-investigation.md) | PCAP Analysis | Wireshark, TCP/IP Analysis | Complete |
+
+
 
 ---
 
