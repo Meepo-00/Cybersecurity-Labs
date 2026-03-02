@@ -32,7 +32,7 @@ Documented walkthroughs and analysis from TryHackMe security exercises, focusing
 Hands-on exercises with industry-standard security tools including Splunk, Wireshark, Nmap, and endpoint detection platforms.
 | Lab Name | Focus Area | Skills Demonstrated | Status |
 |----------|------------|---------------------|--------|
-| [Dr. K Wireshark PCAP Investigation](./Network%20Analysis/Dr-K-Wireshark-pcap-investigation.md) | PCAP Analysis | Wireshark, TCP/IP Analysis | Complete |
+| [Dr. K Wireshark PCAP Investigation](./Security_tool_practice/Dr-K-Wireshark-pcap-investigation.md) | PCAP Analysis | Wireshark, TCP/IP Analysis | Complete |
 
 
 
